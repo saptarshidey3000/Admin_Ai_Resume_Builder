@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_education_educations",
+  "info": {
+    "displayName": "education",
+    "icon": "chartPie"
+  },
+  "options": {},
+  "attributes": {
+    "institution": {
+      "type": "string"
+    },
+    "degree": {
+      "type": "string"
+    },
+    "startDate": {
+      "type": "date"
+    },
+    "endDate": {
+      "type": "date"
+    },
+    "grade": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

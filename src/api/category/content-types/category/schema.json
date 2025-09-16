@@ -26,6 +26,9 @@
     },
     "description": {
       "type": "text"
+    },
+    "nametitlke": {
+      "type": "string"
     }
   }
 }
